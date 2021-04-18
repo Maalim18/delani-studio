@@ -24,7 +24,7 @@ h1{
     font-size: px;
 }
 h2{
-    font-size: 25px;
+    font-size: 35px;
     font-weight: bold;
 }
 h3{
@@ -56,7 +56,7 @@ h3{
     padding-top: 50px;
 }
 .row{
-    padding: 30px;
+    padding: 35px;
 }
 .col-md-4{
     text-emphasis: padding;
@@ -77,5 +77,23 @@ h3{
 }
 .design-info, .dev-info, .product-info{
     display: none;
+}
+.footer{
+    width: 100%;
+    color: black;
+    text-align: center;
+    background-color: white; 
+}
+.imgs{
+    padding: 30px;
+    padding-bottom: 15px;
+}
+.icon{
+    width: 60px;
+    padding: 10px;
+}
+h6{
+    font-size: 20px;
+    font-weight: bold;
 }
     
