@@ -51,4 +51,31 @@ h3{
     color: white;
     padding: 100px;
     font-weight: 350;
+}
+.container{
+    padding-top: 50px;
+}
+.row{
+    padding: 30px;
+}
+.col-md-4{
+    text-emphasis: padding;
+    font-weight: bold;
+    text-align: center;
+    font-size: 12px;
+    
+}
+.head1{
+    font-size: 15px;
+    font-weight: bolder;
+}
+.head2{
+    font-size: 15px;
+}
+.head3{
+    font-size: 15px;
+}
+.design-info, .dev-info, .product-info{
+    display: none;
+}
     
